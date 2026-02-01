@@ -16,6 +16,13 @@
 
 [8]https://pmc.ncbi.nlm.nih.gov/articles/PMC11418107/
 
+[9]https://www.kanker.nl/kankersoorten/hersentumoren/algemeen/overlevingscijfers-van-hersentumoren
+
+[10]https://www.kanker.nl/kankersoorten/hersentumoren/behandelingen/behandeling-van-een-hersentumor
+
+[11]https://www.sciencedirect.com/science/article/pii/S0923753419640615
+
+[12]https://www.genome.jp/dbget-bin/www_bget?pathway:hsa01521 
 
 Plaatjes:
 
