@@ -33,10 +33,14 @@ Plaatjes:
 [p3]https://www.researchgate.net/figure/Genetic-changes-in-glioblastoma-multiforme-GBM_fig4_10805890
 
 Pineale regio:
-Public Domain, https://commons.wikimedia.org/w/index.php?curid=378938
 
-CT Pineoblastoma:
-Pediatric Pineoblastoma. Appl Radiol. February 26, 2021
+[p4]Public Domain, https://commons.wikimedia.org/w/index.php?curid=378938
 
 CT Cerminoma:
-Image courtesy of Dr. Frank Gaillard. Radiopaedia (original file: https://radiopaedia.org/cases/pineal-germinoma). Creative Commons BY-SA-NC
+
+[p5]Image courtesy of Dr. Frank Gaillard. Radiopaedia (original file: https://radiopaedia.org/cases/pineal-germinoma). Creative Commons BY-SA-NC
+
+CT Pineoblastoma:
+
+[p6]Pediatric Pineoblastoma. Appl Radiol. February 26, 2021
+
